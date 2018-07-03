@@ -1,0 +1,6 @@
+c:\users\filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Aplicacao\obj\Debug\TrabalhoFinal.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Aplicacao\bin\Debug\TrabalhoFinal.Aplicacao.dll.config
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Aplicacao\bin\Debug\TrabalhoFinal.Aplicacao.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Aplicacao\bin\Debug\TrabalhoFinal.Aplicacao.pdb
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Aplicacao\obj\Debug\TrabalhoFinal.Aplicacao.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Aplicacao\obj\Debug\TrabalhoFinal.Aplicacao.pdb

@@ -1,0 +1,14 @@
+c:\users\filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\obj\Debug\TrabalhoFinal.Infra.Dados.csprojAssemblyReference.cache
+c:\users\filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\obj\Debug\TrabalhoFinal.Infra.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\TrabalhoFinal.Infra.Dados.dll.config
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\TrabalhoFinal.Infra.Dados.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\TrabalhoFinal.Infra.Dados.pdb
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\TrabalhoFinal.Dominio.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\TrabalhoFinal.Dominio.pdb
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\obj\Debug\TrabalhoFinal.Infra.Dados.csproj.CopyComplete
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\obj\Debug\TrabalhoFinal.Infra.Dados.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Infra.Dados\obj\Debug\TrabalhoFinal.Infra.Dados.pdb

@@ -1,0 +1,10 @@
+Manter as seguintes informações do usuário: Nome, Telefone, Endereço e data de nascimento.
+
+A busca do cliente deve ser permitida pelo número do telefone e por nome
+completo.
+
+Manter um cadastro de quarto para o hotel.
+
+Nossos quartos disponíveis, são do tipo: Solteiro, Casal, Luxo e Executivo.
+
+Emissão de uma reserva.

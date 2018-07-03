@@ -1,0 +1,5 @@
+c:\users\filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Dominio\obj\Debug\TrabalhoFinal.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Dominio\bin\Debug\TrabalhoFinal.Dominio.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Dominio\bin\Debug\TrabalhoFinal.Dominio.pdb
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Dominio\obj\Debug\TrabalhoFinal.Dominio.dll
+C:\Users\Filipe\source\repos\TrabalhoFinal\TrabalhoFinal.Dominio\obj\Debug\TrabalhoFinal.Dominio.pdb
